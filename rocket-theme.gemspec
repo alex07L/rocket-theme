@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["alexlevesque7@hotmail.fr"]
 
   spec.summary       = "rocket elevator theme for jekyll"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/alex07L/rocket-theme/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README|_config\.yml)!i) }
