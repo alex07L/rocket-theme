@@ -26,6 +26,12 @@ li > ul, li > ol { margin-bottom: 0; }
 .stylish-color-dark {
     background-color: #3E4551 !important;
 }
+.stylish-color-dark p, .stylish-color-dark a, .stylish-color-dark a:visited {
+	color: white;
+}
+.stylish-color-dark a:hover {
+	color: #c4c4c4;
+}	
 
 .footer-copyright {
     color: rgba(255,255,255,.6);
